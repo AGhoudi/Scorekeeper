@@ -6,7 +6,7 @@ body {
     height: 100vh;
 }
 
-h1, p, label {
+h1, p, label, button {
     text-align: center;
     font-family: 'Play', sans-serif;
 }
