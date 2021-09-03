@@ -3,7 +3,7 @@ test
 
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
+<p align=center>Il s'agissait de créer une application permettant de noter le score d'un jeu.</p>
 
 <h2 align=center>📝 Description :</h2>
 
@@ -17,7 +17,7 @@ Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
-<p align=center>HTML - CSS - Javascript</p>
+<p align=center>HTML - CSS - Javascript </p>
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
